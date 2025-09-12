@@ -50,4 +50,3 @@ It’s an opportunity to learn:
 ## 📝 Notes
 - Designed as a **teaching tool** for understanding malware logic.
 - Great for labs, classrooms, or self-study (Harmless ones).
----
